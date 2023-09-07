@@ -971,3 +971,14 @@ ul.soc-in {
     position: relative;
     right: 50px;
 }
+
+
+p.mbr-text.mbr-fonts-style.display-7 {
+    font-size: 16px !important;
+}
+
+ul.navbar-nav.nav-dropdown.nav-right {
+    position: absolute;
+}
+
+
