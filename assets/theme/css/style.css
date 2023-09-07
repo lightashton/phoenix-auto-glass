@@ -993,3 +993,7 @@ h1.mbr-section-title.mbr-fonts-style.mb-4.display-2 {
 p.mbr-text.mbr-fonts-style.mb-4.display-5 {
     font-size: 22px !important;
 }
+
+li.soc-item {
+    display: inline-block;
+}
