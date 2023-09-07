@@ -963,3 +963,11 @@ blockquote {
 	top: 0;
 	left: -2400px;
 }
+
+
+
+ul.soc-in {
+    display: flex;
+    position: relative;
+    right: 50px;
+}
